@@ -1,0 +1,9 @@
+- Gitlab 
+- Jenkins
+- Prometheus
+- Grafana
+- Loki
+- Spinnaker
+- Flux
+- ArgoCD
+- Tekton
